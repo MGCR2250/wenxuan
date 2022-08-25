@@ -321,3 +321,18 @@ $(window).scroll(function () {
 })
 
 //获取cookie
+function convertStrToObj(str) {
+    if (!str) {
+        return ""
+    }
+    return JSON.parse(str)
+}
+let cookie_Str = $.cookie('user') ? $.cookie('user') : '';
+console.log(cookie_Str)
+//转为对象
+let cookie_Obj = convertStrToObj(cookie_Str);
+console.log(cookie_Obj.user.username)
+if (cookie_Obj.user.username) {
+    $('.login').children().detach();
+    $('.login').text(`${cookie_Obj.user.username}`)
+}
