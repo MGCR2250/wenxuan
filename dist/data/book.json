@@ -1,0 +1,1065 @@
+{
+    "banner1": {
+        "src": "./img/banner"
+    },
+    "banner2": {
+        "src": "./img/banner1"
+    },
+    "banner3": {
+        "src": "./img/banner2"
+    },
+    "banner4": {
+        "src": "./img/banner3"
+    },
+    "banner5": {
+        "src": "./img/banner4"
+    },
+    "banner6": {
+        "src": "./img/banner5"
+    },
+    "banner7": {
+        "src": "./img/banner6"
+    },
+    "banner8": {
+        "src": "./img/banner7"
+    },
+    "banner9": {
+        "src": "./img/banner8"
+    },
+    "banner10": {
+        "src": "./img/banner9"
+    },
+    "banner11": {
+        "src": "./img/banner10"
+    },
+    "book1": {
+        "src": "img/book1",
+        "name": "汉朝那些事儿",
+        "writer": "飘雪楼主 著",
+        "price": "￥121.7",
+        "o_price": "￥224.00",
+        "inventory": "1"
+    },
+    "book2": {
+        "src": "img/book2",
+        "name": "唐朝那些事儿",
+        "writer": "冬雪心境 著",
+        "price": "￥119.9",
+        "o_price": "￥220.60",
+        "inventory": "1"
+    },
+    "book3": {
+        "src": "img/book3",
+        "name": "人生海海",
+        "writer": "麦家 著",
+        "price": "￥38.8",
+        "o_price": "￥55.00",
+        "inventory": "1"
+    },
+    "book4": {
+        "src": "img/book4",
+        "name": "雾都孤儿",
+        "writer": " (英)查尔斯·狄更斯(Charles Dickens) 著 黄水乞 译 ",
+        "price": "￥29.0",
+        "o_price": "￥52.00",
+        "inventory": "1"
+    },
+    "book5": {
+        "src": "img/book5",
+        "name": "白色橄榄树",
+        "writer": " 玖月晞 著",
+        "price": "￥45.4",
+        "o_price": "￥69.80",
+        "inventory": "1"
+    },
+    "book6": {
+        "src": "img/book6",
+        "name": "你是迟来的欢喜",
+        "writer": " 顾了之 著",
+        "price": "￥25.9",
+        "o_price": "￥39.80",
+        "inventory": "1"
+    },
+    "book7": {
+        "src": "img/book7",
+        "name": "天使之耳 交通警察之夜",
+        "writer": " (日)东野圭吾 著 朱田云 译 著",
+        "price": "￥41.3",
+        "o_price": "￥59.00",
+        "inventory": "1"
+    },
+    "book8": {
+        "src": "img/book8",
+        "name": "复活",
+        "writer": " （俄）列夫·托尔斯泰 著 李辉凡 译 著",
+        "price": "￥38.9",
+        "o_price": "￥59.80",
+        "inventory": "1"
+    },
+    "book9": {
+        "src": "img/book9",
+        "name": "檀香刑",
+        "writer": " 莫言 著",
+        "price": "￥38.28",
+        "o_price": "￥56.00",
+        "inventory": "1"
+    },
+    "book10": {
+        "src": "img/book10",
+        "name": "米小圈脑筋急转弯",
+        "writer": "北猫 著",
+        "price": "￥46.1",
+        "o_price": "￥64.00",
+        "inventory": "1"
+    },
+    "book11": {
+        "src": "./img/book11",
+        "name": "aoe系列•小猪唏哩呼噜 注音版(2册)（注音版）",
+        "writer": "孙幼军 著",
+        "price": "￥30.0",
+        "o_price": "￥22.20",
+        "inventory": "1"
+    },
+    "book12": {
+        "src": "./img/book12",
+        "name": "米小圈上学记(全4册)",
+        "writer": "北猫 著 手指金鹿,老布鲁 绘",
+        "price": "￥72.0",
+        "o_price": "￥100.00",
+        "inventory": "1"
+    },
+    "book13": {
+        "src": "./img/book13",
+        "name": "藏在万物里的汉字(全8册)",
+        "writer": "璞玉,雀角,曹磊 等 著",
+        "price": "￥160.0",
+        "o_price": "￥200.00",
+        "inventory": "1"
+    },
+    "book14": {
+        "src": "./img/book14",
+        "name": "摩比爱数学 萌芽篇(1-6)",
+        "writer": "张邦鑫 编",
+        "price": "￥184.0",
+        "o_price": "￥230.00",
+        "inventory": "1"
+    },
+    "book15": {
+        "src": "./img/book15",
+        "name": "一年级不可怕（套装3册）",
+        "writer": "张文质；张红；陈春 著",
+        "price": "￥119.5",
+        "o_price": "￥149.40",
+        "inventory": "1"
+    },
+    "book16": {
+        "src": "./img/book16",
+        "name": "米小圈上学记 4年级(全4册)",
+        "writer": "北猫 著 常耕,小圈文化绘",
+        "price": "￥72.0",
+        "o_price": "￥100.00",
+        "inventory": "1"
+    },
+    "book17": {
+        "src": "./img/book17",
+        "name": "米小圈上学记 1年级(全4册)",
+        "writer": "北猫 著 手指金鹿,老布鲁 绘",
+        "price": "￥72.0",
+        "o_price": "￥100.00",
+        "inventory": "1"
+    },
+    "book18": {
+        "src": "./img/book18",
+        "name": "米小圈上学记 3年级(全4册)",
+        "writer": "北猫 著 常耕,手指金鹿 绘",
+        "price": "￥72.0",
+        "o_price": "￥100.00",
+        "inventory": "1"
+    },
+    "book19": {
+        "src": "./img/book19",
+        "name": "姜小牙上学记",
+        "writer": "北猫 著",
+        "price": "￥64.8",
+        "o_price": "￥90.00",
+        "inventory": "1"
+    },
+    "book20": {
+        "src": "./img/book20",
+        "name": "七田真全脑开发练习册 专注力与记忆力+数学与逻辑思维 3-4岁(全6册)",
+        "writer": "日本七田教育研究所 著",
+        "price": "￥95.7",
+        "o_price": "￥119.00",
+        "inventory": "1"
+    },
+    "book21": {
+        "src": "./img/book21",
+        "name": "汉字启蒙课(全6册)",
+        "writer": "蓝灯童画 著",
+        "price": "￥102.4",
+        "o_price": "￥128.00",
+        "inventory": "1"
+    },
+    "book22": {
+        "src": "./img/book22",
+        "name": "摩比爱数学 探索篇(1-6)",
+        "writer": "张邦鑫 编",
+        "price": "￥184.0",
+        "o_price": "￥230.00",
+        "inventory": "1"
+    },
+    "book23": {
+        "src": "./img/book23",
+        "name": "曹文轩'纯美'小说系列•青铜葵花",
+        "writer": "曹文轩 著",
+        "price": "￥15.9",
+        "o_price": "￥22.00",
+        "inventory": "1"
+    },
+    "book24": {
+        "src": "./img/book24",
+        "name": "森林报系列 春夏秋冬(共4册)（彩色版）",
+        "writer": "(苏)维·比安基 著;王汶 译 著",
+        "price": "￥43.2",
+        "o_price": "￥60.00",
+        "inventory": "1"
+    },
+    "book25": {
+        "src": "./img/book25",
+        "name": "人世间",
+        "writer": "梁晓声 著",
+        "price": "￥171.4",
+        "o_price": "￥230.00",
+        "inventory": "1"
+    },
+    "book26": {
+        "src": "./img/book26",
+        "name": "大江大河四部曲",
+        "writer": "阿耐 著",
+        "price": "￥220.8",
+        "o_price": "￥320.00",
+        "inventory": "1"
+    },
+    "book27": {
+        "src": "./img/book27",
+        "name": "你当像鸟飞往你的山",
+        "writer": "(美)塔拉·韦斯特弗(Tara Westover) 著 任爱红 译",
+        "price": "￥45.4",
+        "o_price": "￥59.00",
+        "inventory": "1"
+    },
+    "book28": {
+        "src": "./img/book28",
+        "name": "新乡土中国 修订版",
+        "writer": "贺雪峰 著",
+        "price": "￥45.4",
+        "o_price": "￥59.00",
+        "inventory": "1"
+    },
+    "book29": {
+        "src": "./img/book29",
+        "name": "病者生存 疾病如何延续人类寿命",
+        "writer": "(美)沙龙·莫勒姆(Sharon Moalem),(美)乔纳森·普林斯(Jonathan Princ) 著 程纪莲 译",
+        "price": "￥37.4",
+        "o_price": "￥48.00",
+        "inventory": "1"
+    },
+    "book30": {
+        "src": "./img/book30",
+        "name": "呼吸",
+        "writer": "(美)特德·姜(Ted Chiang) 著 耿辉 等 译",
+        "price": "￥32.3",
+        "o_price": "￥42.00",
+        "inventory": "1"
+    },
+    "book31": {
+        "src": "./img/book31",
+        "name": "克拉拉与太阳",
+        "writer": "(英)石黑一雄 著 宋佥 译",
+        "price": "￥53.0",
+        "o_price": "￥68.00",
+        "inventory": "1"
+    },
+    "book32": {
+        "src": "./img/book32",
+        "name": "《恋练有词:考研英语真题词汇6500分层串记》+背词宝+思维导图(全4册)",
+        "writer": "俞敏洪,新东方考试研究中心 编",
+        "price": "￥54.4",
+        "o_price": "￥68.00",
+        "inventory": "1"
+    },
+    "book33": {
+        "src": "./img/book33",
+        "name": "遥远的救世主",
+        "writer": "豆豆 著",
+        "price": "￥37.0",
+        "o_price": "￥48.00",
+        "inventory": "1"
+    },
+    "book34": {
+        "src": "./img/book34",
+        "name": "寂静的春天",
+        "writer": "(美)蕾切尔·卡森 著 韩正 译",
+        "price": "￥25.33",
+        "o_price": "￥29.80",
+        "inventory": "1"
+    },
+    "book35": {
+        "src": "./img/book35",
+        "name": "同级生",
+        "writer": "(日)东野圭吾 著 王丽丽 译",
+        "price": "￥44.7",
+        "o_price": "￥58.00",
+        "inventory": "1"
+    },
+    "book36": {
+        "src": "./img/book36",
+        "name": "预知梦",
+        "writer": "(日)东野圭吾 著 吕灵芝 译",
+        "price": "￥38.1",
+        "o_price": "￥49.50",
+        "inventory": "1"
+    },
+    "book37": {
+        "src": "./img/book37",
+        "name": "梦幻花",
+        "writer": "(日)东野圭吾 著 王蕴洁 译",
+        "price": "￥33.7",
+        "o_price": "￥46.80",
+        "inventory": "1"
+    },
+    "book38": {
+        "src": "./img/book38",
+        "name": "我们仨",
+        "writer": "杨绛 著",
+        "price": "￥21.0",
+        "o_price": "￥28.00",
+        "inventory": "1"
+    },
+    "book39": {
+        "src": "./img/book39",
+        "name": "百年孤独（50周年纪念版）",
+        "writer": "(哥伦)加西亚·马尔克斯(Gabriel Carcia Marquez) 著;范晔 译 著",
+        "price": "￥42.4",
+        "o_price": "￥55.00",
+        "inventory": "1"
+    },
+    "book40": {
+        "src": "./img/book40",
+        "name": "米格尔在智利的地下行动",
+        "writer": "(哥伦)加西亚·马尔克斯(Gabriel Garcia Marquez) 著 魏然 译",
+        "price": "￥37.7",
+        "o_price": "￥49.00",
+        "inventory": "1"
+    },
+    "book41": {
+        "src": "./img/book41",
+        "name": "一起连环绑架案的新闻",
+        "writer": "(哥伦)加西亚·马尔克斯(Gabriel Garcia Marquez) 著 （哥伦比亚）加西亚·马尔克斯 编 林叶青 译",
+        "price": "￥52.4",
+        "o_price": "￥68.00",
+        "inventory": "1"
+    },
+    "book42": {
+        "src": "./img/book42",
+        "name": "曹文轩文集套装（共7册）",
+        "writer": "曹文轩 著",
+        "price": "￥98.6",
+        "o_price": "￥137.00",
+        "inventory": "1"
+    },
+    "book43": {
+        "src": "./img/book43",
+        "name": "火印",
+        "writer": "曹文轩 著",
+        "price": "￥17.2",
+        "o_price": "￥25.00",
+        "inventory": "1"
+    },
+    "book44": {
+        "src": "./img/book44",
+        "name": "曹文轩文集•草房子",
+        "writer": "曹文轩 著",
+        "price": "￥15.2",
+        "o_price": "￥22.00",
+        "inventory": "1"
+    },
+    "book45": {
+        "src": "./img/book45",
+        "name": "曹文轩文集•青铜葵花",
+        "writer": "曹文轩 著",
+        "price": "￥13.1",
+        "o_price": "￥19.00",
+        "inventory": "1"
+    },
+    "book46": {
+        "src": "./img/book46",
+        "name": "毕淑敏作品精选",
+        "writer": "毕淑敏 著",
+        "price": "￥23.4",
+        "o_price": "￥33.00",
+        "inventory": "1"
+    },
+    "book47": {
+        "src": "./img/book47",
+        "name": "毕淑敏·我们的心灵(3册)",
+        "writer": "毕淑敏 著",
+        "price": "￥118.6",
+        "o_price": "￥156.00",
+        "inventory": "1"
+    },
+    "book48": {
+        "src": "./img/book48",
+        "name": "毕淑敏少年心灵智慧书",
+        "writer": "毕淑敏 著",
+        "price": "￥111.8",
+        "o_price": "￥149.00",
+        "inventory": "1"
+    },
+    "book49": {
+        "src": "./img/book49",
+        "name": "谁的青春不迷茫",
+        "writer": "刘同 著",
+        "price": "￥32.8",
+        "o_price": "￥45.00",
+        "inventory": "1"
+    },
+    "book50": {
+        "src": "./img/book50",
+        "name": "我在未来等你",
+        "writer": "刘同 著",
+        "price": "￥30.7",
+        "o_price": "￥42.00",
+        "inventory": "1"
+    },
+    "book60": {
+        "src": "./img/book60",
+        "name": "三体(3册)",
+        "writer": "刘慈欣 著",
+        "price": "￥62.3",
+        "o_price": "￥93.0",
+        "inventory": "1"
+    },
+    "book61": {
+        "src": "./img/book61",
+        "name": "沙海 典藏纪念版(2册)（典藏版）",
+        "writer": "南派三叔 著",
+        "price": "￥45.4",
+        "o_price": "￥69.0",
+        "inventory": "1"
+    },
+    "book62": {
+        "src": "./img/book62",
+        "name": "夏洛的网",
+        "writer": "(美)E·B·怀特 著 任溶溶 译",
+        "price": "￥28.9",
+        "o_price": "￥37.0",
+        "inventory": "1"
+    },
+    "book63": {
+        "src": "./img/book63",
+        "name": "红楼梦 四大名著大字本(全3册)",
+        "writer": "[清]曹雪芹 著",
+        "price": "￥91.6",
+        "o_price": "￥116.0",
+        "inventory": "1"
+    },
+    "book64": {
+        "src": "./img/book64",
+        "name": "红楼梦 (全2册)",
+        "writer": "[清]曹雪芹 著",
+        "price": "￥43.6",
+        "o_price": "￥80.0",
+        "inventory": "1"
+    },
+    "book65": {
+        "src": "./img/book65",
+        "name": "红岩",
+        "writer": "罗广斌,杨益言 著 ",
+        "price": "￥26.3",
+        "o_price": "￥36",
+        "inventory": "1"
+    },
+    "book66": {
+        "src": "./img/book66",
+        "name": "红星照耀中国(青少版)",
+        "writer": "(美)埃德加·斯诺 著 董乐山 译",
+        "price": "￥26.3",
+        "o_price": "￥33",
+        "inventory": "1"
+    },
+    "book67": {
+        "src": "./img/book67",
+        "name": "明朝那些事儿增补版.全集(202册)",
+        "writer": "当年明月 著",
+        "price": "￥275.3",
+        "o_price": "￥405",
+        "inventory": "1"
+    },
+    "book68": {
+        "src": "./img/book68",
+        "name": "活着",
+        "writer": "余华 著",
+        "price": "￥34.3",
+        "o_price": "￥45",
+        "inventory": "1"
+    },
+    "book69": {
+        "src": "./img/book69",
+        "name": "如果历史是一群喵 10 宋辽金",
+        "writer": "肥志 绘",
+        "price": "￥43.3",
+        "o_price": "￥50",
+        "inventory": "1"
+    },
+    "book70": {
+        "src": "./img/book70",
+        "name": "笔记(典藏纪念版)(9册)",
+        "writer": "南派三叔 著",
+        "price": "￥291.5",
+        "o_price": "￥405",
+        "inventory": "1"
+    },
+    "book71": {
+        "src": "./img/book71",
+        "name": "百年孤独（50周年纪念版）",
+        "writer": "(哥伦)加西亚·马尔克斯(Gabriel Cadddd) 著",
+        "price": "￥42.4",
+        "o_price": "￥55",
+        "inventory": "1"
+    },
+    "book72": {
+        "src": "./img/book72",
+        "name": "如果历史是一群喵.夏商西周篇",
+        "writer": "肥志编绘 著",
+        "price": "￥35.3",
+        "o_price": "￥45",
+        "inventory": "1"
+    },
+    "book73": {
+        "src": "./img/book73",
+        "name": "钝感力",
+        "writer": "(日)渡边淳一 著作 李迎跃 译者",
+        "price": "￥24",
+        "o_price": "￥32",
+        "inventory": "1"
+    },
+    "book74": {
+        "src": "./img/book74",
+        "name": "苏东坡传（精装纪念典藏版）",
+        "writer": "林语堂 著 张振玉 译",
+        "price": "￥37",
+        "o_price": "￥52",
+        "inventory": "1"
+    },
+    "book75": {
+        "src": "./img/book75",
+        "name": "全球通史 从史前到21世纪 第7版",
+        "writer": "(美)斯塔夫里阿诺斯(Lefen Stavros",
+        "price": "￥110",
+        "o_price": "￥310",
+        "inventory": "1"
+    },
+    "book76": {
+        "src": "./img/book76",
+        "name": "李玫瑾幽微的人性+心理抚养",
+        "writer": "李玫瑾 著",
+        "price": "￥58",
+        "o_price": "￥80",
+        "inventory": "1"
+    },
+    "book77": {
+        "src": "./img/book77",
+        "name": "2022新版中国地图世界地图",
+        "writer": "成都地图 著",
+        "price": "￥38.5",
+        "o_price": "￥50",
+        "inventory": "1"
+    },
+    "book78": {
+        "src": "./img/book78",
+        "name": "金字塔原理大全集(全2册)",
+        "writer": "(美)芭芭拉·明托(Barbara Minto) ",
+        "price": "￥138.5",
+        "o_price": "￥250",
+        "inventory": "1"
+    },
+    "book79": {
+        "src": "./img/book79",
+        "name": "南渡北归 增订本(3全册)",
+        "writer": "岳南 著作",
+        "price": "￥144.5",
+        "o_price": "￥150",
+        "inventory": "1"
+    },
+    "book80": {
+        "src": "./img/book80",
+        "name": "怪诞行为学1-6（套装共6册）",
+        "writer": "[美]丹·艾瑞里 著",
+        "price": "￥222.5",
+        "o_price": "￥281",
+        "inventory": "1"
+    },
+    "book81": {
+        "src": "./img/book81",
+        "name": "超越项目——理解300个术语",
+        "writer": "超越项目——理解300个术语",
+        "price": "￥72.5",
+        "o_price": "￥91",
+        "inventory": "1"
+    },
+    "book82": {
+        "src": "./img/book82",
+        "name": "【预售】易经真的很容易",
+        "writer": "曾仕强,刘君政 著",
+        "price": "￥23.7",
+        "o_price": "￥32",
+        "inventory": "1"
+    },
+    "book83": {
+        "src": "./img/book83",
+        "name": "蛤蟆先生去看心理医生",
+        "writer": "(英)罗伯特·戴博德 著 陈赢 译",
+        "price": "￥27",
+        "o_price": "￥32",
+        "inventory": "1"
+    },
+    "book84": {
+        "src": "./img/book84",
+        "name": "被讨厌的勇气 \"自我启发之父",
+        "writer": "(日)岸见一郎,(日)古贺史健 著 渠海 译",
+        "price": "￥42",
+        "o_price": "￥62",
+        "inventory": "1"
+    },
+    "book85": {
+        "src": "./img/book85",
+        "name": "赛雷三分钟漫画三国演义(1-3)",
+        "writer": "赛雷 著",
+        "price": "￥112",
+        "o_price": "￥162",
+        "inventory": "1"
+    },
+    "book86": {
+        "src": "./img/book86",
+        "name": "万历十五年",
+        "writer": "黄仁宇 著",
+        "price": "￥20.5",
+        "o_price": "￥62",
+        "inventory": "1"
+    },
+    "book87": {
+        "src": "./img/book87",
+        "name": "高效能人士的七个习惯(钻石版)",
+        "writer": "(美)史蒂芬·柯维 著 高新勇",
+        "price": "￥29.5",
+        "o_price": "￥62",
+        "inventory": "1"
+    },
+    "book88": {
+        "src": "./img/book88",
+        "name": "次第花开：藏人精神保持愉悦的",
+        "writer": "希阿荣博堪布 著",
+        "price": "￥29.5",
+        "o_price": "￥32",
+        "inventory": "1"
+    },
+    "book89": {
+        "src": "./img/book89",
+        "name": "赛雷三分钟漫画三国演义群雄",
+        "writer": "赛雷 著",
+        "price": "￥129.5",
+        "o_price": "￥132",
+        "inventory": "1"
+    },
+    "book90": {
+        "src": "./img/book90",
+        "name": "刑法学讲义(签章本)",
+        "writer": "罗翔 著",
+        "price": "￥49.5",
+        "o_price": "￥62",
+        "inventory": "1"
+    },
+    "book91": {
+        "src": "./img/book91",
+        "name": "中华人民共和国民法典 实用",
+        "writer": "中国法制出版社 编",
+        "price": "￥42.5",
+        "o_price": "￥65",
+        "inventory": "1"
+    },
+    "book92": {
+        "src": "./img/book92",
+        "name": "中国低碳生态城市发展报告",
+        "writer": "中国城市科学研究会 编",
+        "price": "￥43.5",
+        "o_price": "￥56",
+        "inventory": "1"
+    },
+    "book93": {
+        "src": "./img/book93",
+        "name": "图解畜禽科学养殖技术丛书",
+        "writer": "彭军、吴家强、张永宁主编 著",
+        "price": "￥43.5",
+        "o_price": "￥56",
+        "inventory": "1"
+    },
+    "book94": {
+        "src": "./img/book94",
+        "name": "环境影响评价案例分析试题解",
+        "writer": "贾生元 编",
+        "price": "￥73.5",
+        "o_price": "￥86",
+        "inventory": "1"
+    },
+    "book95": {
+        "src": "./img/book95",
+        "name": "环境影响评价技术导则与标准",
+        "writer": "张智锋 编",
+        "price": "￥43.5",
+        "o_price": "￥56",
+        "inventory": "1"
+    },
+    "book96": {
+        "src": "./img/book96",
+        "name": "环境影响评价相关法律法规",
+        "writer": "张智锋 编",
+        "price": "￥33.5",
+        "o_price": "￥46",
+        "inventory": "1"
+    },
+    "book97": {
+        "src": "./img/book97",
+        "name": "环境影响评价技术方法基础过",
+        "writer": "张智锋 编",
+        "price": "￥33.5",
+        "o_price": "￥46",
+        "inventory": "1"
+    },
+    "book98": {
+        "src": "./img/book98",
+        "name": "城镇供水厂深度处理工艺运行",
+        "writer": "张金松,全继萍 编",
+        "price": "￥39.5",
+        "o_price": "￥45",
+        "inventory": "1"
+    },
+    "book99": {
+        "src": "./img/book99",
+        "name": "环境影响评价相关法律法规",
+        "writer": "张金松,全继萍 编",
+        "price": "￥37.5",
+        "o_price": "￥45",
+        "inventory": "1"
+    },
+    "book100": {
+        "src": "./img/book100",
+        "name": "变频器维修手册",
+        "writer": "阳鸿钧 等 著",
+        "price": "￥82.5",
+        "o_price": "￥99",
+        "inventory": "1"
+    },
+    "book101": {
+        "src": "./img/book101",
+        "name": "绿色生态城区评价标准技术",
+        "writer": "王有为,葛坚,刘京 编",
+        "price": "￥49.5",
+        "o_price": "￥59",
+        "inventory": "1"
+    },
+    "book102": {
+        "src": "./img/book102",
+        "name": "中华人民共和国宪法",
+        "writer": "全国人大常委会办公厅 供稿",
+        "price": "￥2.5",
+        "o_price": "￥5",
+        "inventory": "1"
+    },
+    "book103": {
+        "src": "./img/book103",
+        "name": "服装裁剪实用手册(上装篇+下篇)",
+        "writer": "鲍卫君 等 编",
+        "price": "￥82.5",
+        "o_price": "￥105",
+        "inventory": "1"
+    },
+    "book104": {
+        "src": "./img/book104",
+        "name": "中华人民共和国民法典",
+        "writer": "法律出版社 编",
+        "price": "￥12.5",
+        "o_price": "￥15",
+        "inventory": "1"
+    },
+    "book105": {
+        "src": "./img/book105",
+        "name": "新概念英语1词汇语法学习",
+        "writer": "(英)亚历山大,何其莘 著",
+        "price": "￥50.3",
+        "o_price": "￥71.6",
+        "inventory": "1"
+    },
+    "book106": {
+        "src": "./img/book106",
+        "name": "大学英语四级考试超详解真题+",
+        "writer": "新东方考试研究中心 编",
+        "price": "￥39.3",
+        "o_price": "￥56.6",
+        "inventory": "1"
+    },
+    "book107": {
+        "src": "./img/book107",
+        "name": "【预售】考研数学高等数学辅",
+        "writer": "汤家凤 编",
+        "price": "￥59.3",
+        "o_price": "￥60.6",
+        "inventory": "1"
+    },
+    "book108": {
+        "src": "./img/book108",
+        "name": "逻辑1000题一点通 MBA",
+        "writer": "熊师路,赵鑫全 编",
+        "price": "￥72.3",
+        "o_price": "￥90.6",
+        "inventory": "1"
+    },
+    "book109": {
+        "src": "./img/book109",
+        "name": "一本 初中生必背古诗文",
+        "writer": "一本考试研究中心 编",
+        "price": "￥32.3",
+        "o_price": "￥40.6",
+        "inventory": "1"
+    },
+    "book110": {
+        "src": "./img/book110",
+        "name": "学习之道",
+        "writer": "(美)芭芭拉·奥克利 著 教育无边",
+        "price": "￥42.3",
+        "o_price": "￥60.6",
+        "inventory": "1"
+    },
+    "book111": {
+        "src": "./img/book111",
+        "name": "慎小嶷 十天突破雅思口语",
+        "writer": "慎小嶷 编",
+        "price": "￥62.4",
+        "o_price": "￥78.6",
+        "inventory": "1"
+    },
+    "book112": {
+        "src": "./img/book112",
+        "name": "高中必刷题 化学 必修第1册 ",
+        "writer": "魏东 等 编",
+        "price": "￥32.4",
+        "o_price": "￥58.6",
+        "inventory": "1"
+    },
+    "book113": {
+        "src": "./img/book113",
+        "name": "高中文言文全解一本通",
+        "writer": "高中文言文全解一本通编写组 编",
+        "price": "￥32.4",
+        "o_price": "￥38.6",
+        "inventory": "1"
+    },
+    "book114": {
+        "src": "./img/book114",
+        "name": "英语四级真题 2022.12",
+        "writer": "《英语四级真题》编写组 编",
+        "price": "￥42.4",
+        "o_price": "￥68.6",
+        "inventory": "1"
+    },
+    "book115": {
+        "src": "./img/book115",
+        "name": "高等数学辅导讲义 2023(全2册)",
+        "writer": "武忠祥 编",
+        "price": "￥55.4",
+        "o_price": "￥68.6",
+        "inventory": "1"
+    },
+    "book116": {
+        "src": "./img/book116",
+        "name": "2023考研英语真题逐词逐句手",
+        "writer": "曾鸣张剑王继辉 著",
+        "price": "￥71.8",
+        "o_price": "￥89.8",
+        "inventory": "1"
+    },
+    "book117": {
+        "src": "./img/book117",
+        "name": "2023考研政治考点清单",
+        "writer": "陆寓丰 著",
+        "price": "￥50.8",
+        "o_price": "￥69.8",
+        "inventory": "1"
+    },
+    "book118": {
+        "src": "./img/book118",
+        "name": "考研数学上岸公式手册",
+        "writer": "知识源 编",
+        "price": "￥14.8",
+        "o_price": "￥18.8",
+        "inventory": "1"
+    },
+    "book119": {
+        "src": "./img/book119",
+        "name": "教育原乡 寻根与展望",
+        "writer": "严华银 著",
+        "price": "￥41.8",
+        "o_price": "￥58.8",
+        "inventory": "1"
+    },
+    "book120": {
+        "src": "./img/book120",
+        "name": "《黄帝内经》系列珍藏版",
+        "writer": "徐文兵,梁冬 著",
+        "price": "￥41.8",
+        "o_price": "￥58.8",
+        "inventory": "1"
+    },
+    "book121": {
+        "src": "./img/book121",
+        "name": "基础篇(套装全3册)/速成围棋",
+        "writer": "黄焰 著作",
+        "price": "￥55.8",
+        "o_price": "￥75.8",
+        "inventory": "1"
+    },
+    "book122": {
+        "src": "./img/book122",
+        "name": "速成围棋 入门篇 上",
+        "writer": "黄焰 著作",
+        "price": "￥15.8",
+        "o_price": "￥25.8",
+        "inventory": "1"
+    },
+    "book123": {
+        "src": "./img/book123",
+        "name": "速成围棋 入门篇(3册)",
+        "writer": "黄焰 著作",
+        "price": "￥55.8",
+        "o_price": "￥95.8",
+        "inventory": "1"
+    },
+    "book124": {
+        "src": "./img/book124",
+        "name": "初级篇(套装全3册)/速成围棋",
+        "writer": "黄焰 著作",
+        "price": "￥55.8",
+        "o_price": "￥75.8",
+        "inventory": "1"
+    },
+    "book125": {
+        "src": "./img/book125",
+        "name": "生命的重建+生命的重建问答",
+        "writer": "(美)路易斯.海(Louise L.Hay) 著；",
+        "price": "￥35.8",
+        "o_price": "￥55.8",
+        "inventory": "1"
+    },
+    "book126": {
+        "src": "./img/book126",
+        "name": "刻意练习 如何从新手到大师",
+        "writer": "(美)安德斯·艾利克森,(美)罗伯特·普尔 ",
+        "price": "￥46.8",
+        "o_price": "￥59.8",
+        "inventory": "1"
+    },
+    "book127": {
+        "src": "./img/book127",
+        "name": "超级学习力(全4册)",
+        "writer": "生墨,陈玢,林蓓蓓 等 编",
+        "price": "￥96.8",
+        "o_price": "￥146.8",
+        "inventory": "1"
+    },
+    "book128": {
+        "src": "./img/book128",
+        "name": "【预售】陪孩子走过小学六年",
+        "writer": "刘称莲 著",
+        "price": "￥36.8",
+        "o_price": "￥46.8",
+        "inventory": "1"
+    },
+    "book129": {
+        "src": "./img/book129",
+        "name": "孩子,为你自己读书",
+        "writer": "于丽 著",
+        "price": "￥23.8",
+        "o_price": "￥35.8",
+        "inventory": "1"
+    },
+    "book130": {
+        "src": "./img/book130",
+        "name": "钢琴基础教程 1 修订版 扫码",
+        "writer": "韩林申 等 编",
+        "price": "￥32.8",
+        "o_price": "￥42.8",
+        "inventory": "1"
+    },
+    "book131": {
+        "src": "./img/book131",
+        "name": "速成围棋 入门篇 中",
+        "writer": "黄焰 著",
+        "price": "￥12.8",
+        "o_price": "￥22.8",
+        "inventory": "1"
+    },
+    "book132": {
+        "src": "./img/book132",
+        "name": "断舍离",
+        "writer": "山下英子 著 贾耀平 译",
+        "price": "￥32.8",
+        "o_price": "￥45.8",
+        "inventory": "1"
+    },
+    "book133": {
+        "src": "./img/book133",
+        "name": "车尔尼钢琴初步教程 作品599",
+        "writer": "无 著",
+        "price": "￥29.8",
+        "o_price": "￥45.8",
+        "inventory": "1"
+    },
+    "book134": {
+        "src": "./img/book134",
+        "name": "熵增定律(一切问题的底层规律)",
+        "writer": "何圣君//王怡 著",
+        "price": "￥32.8",
+        "o_price": "￥49.8",
+        "inventory": "1"
+    },
+    "writer1": {
+        "src": "./img/writer1",
+        "compellation": "东野圭吾",
+        "introduce": "东野圭吾(1958-)出生于日本大阪，大阪府立大学毕业。1985年以第31届江户川乱步奖得奖作《放学后》出道。1999年以《秘密》获得第52届日本推理作家协会奖，第120届直木奖入围，并于1998年拍摄电影，由广末凉子主演。早期作品多为精巧细致的本格推理，之后文风逐渐超越传统推理小说的框架，其创作力旺盛的程度，让他跃居日本推理小说界的*尖作家。代表作品有：《神探伽利略》《预知梦》和《嫌疑人X的献身》（获得第134届直木奖）；以及以推理小说形式讨论教育制度缺陷与亲情的《湖畔杀人事件》等。"
+    },
+    "writer2": {
+        "src": "./img/writer2",
+        "compellation": "杨绛",
+        "introduce": "杨绛（1911—2016），原名杨季康，中国著名女作家、文学翻译家和外国文学研究家。祖籍江苏无锡。1932年毕业于苏州东吴大学，当年考入清华大学研究生院。1935年与钱锺书结婚。杨绛的**部作品为短篇小说《璐璐，不用愁！》，。二十世纪四十年代初，她连续创作了喜剧《称心如意》和《弄真成假》。1981年出版散文代表作《干校六记》。1988年出版小说代表作《洗澡》，另著有《我们仨》《将饮茶》等。作为翻译家，杨绛成就卓著，翻译了文学名著《堂吉诃德》、《小癞子》、法国《吉尔·布拉斯》以及古希腊柏拉图的对话录《斐多》等。"
+    },
+    "writer3": {
+        "src": "./img/writer3",
+        "compellation": "马尔克斯",
+        "introduce": "加西亚·马尔克斯， 哥伦比亚著名作家，魔幻现实主义文学代表人物。 1927年出生于哥伦比亚马格达莱纳海滨小镇阿拉卡塔卡。童年与外祖父母一起生活。1948年因内战辍学，进入报界。五十年代开始出版文学作品。。1967年出版《百年孤独》。1982年获诺贝尔文学奖。 主要作品有长篇小说《百年孤独》《族长的没落》《霍乱时期的爱情》《苦妓追忆录》，中篇小说《枯枝败叶》《恶时辰》，短篇小说集《蓝宝石般的眼睛》《格兰德大妈的葬礼》等。"
+    },
+    "writer4": {
+        "src": "./img/writer4",
+        "compellation": "曹文轩",
+        "introduce": "曹文轩，一九五四年一月生于江苏盐城。*国作家协会**委员会委员，北京作协副主席，北京大学教授、博士生导师。主要文学作品集有《忧郁的田园》《红葫芦》《追随永恒》《甜橙树》等。长篇小说有《山羊不吃天堂草》《草房子》《红瓦》《根鸟》《细米》《青铜葵花》《天瓢》"
+    },
+    "writer5": {
+        "src": "./img/writer5",
+        "compellation": "毕淑敏",
+        "introduce": "1952年10月出生于新疆伊宁，中共党员，国家一级作家、内科主治医师、北京作家协会副主席、北京师范大学文学硕士等。著有《毕淑敏文集》十二卷，长篇小说《红处方》《血玲珑》《拯救乳房》《女心理师》《鲜花手术》等畅销书。她的《学会看病》选入语文（人教版）5年级上册第20课。"
+    },
+    "writer6": {
+        "src": "./img/writer6",
+        "compellation": "刘同",
+        "introduce": "刘同，青年作家，现任光线影业副总裁。曾出版《谁的青春不迷茫》《你的孤独，虽败犹荣》等作品，创造近年青春书籍销售纪录， 被中国关心下一代委员会聘为“青年榜样”。《谁的青春不迷茫》获得第八届中国作家榜“年度励志书”，同名电影于2016年4月22日上映。《你的孤独，虽败犹荣》获得第九届中国作家榜 “年度励志书”，并在2015年央视两会观察新闻节目中，与《之江心语》《活着》和《狼图腾》一起，被评为年度国民阅读四大图书。"
+    }
+}
